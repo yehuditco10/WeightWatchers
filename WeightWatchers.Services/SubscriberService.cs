@@ -50,7 +50,7 @@ namespace WeightWatchers.Services
                 CardModel cardUpdated = new CardModel()
                 {
                     id = cardId,
-                    BMI = (weight) / card.height * card.height,
+                    BMI = weight / (card.height * card.height),
                     weight = weight,
                     updateDate = DateTime.Today
                 };

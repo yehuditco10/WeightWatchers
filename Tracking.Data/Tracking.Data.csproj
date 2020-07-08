@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tracking.Services\Tracking.Services.csproj" />
+  </ItemGroup>
+
 </Project>

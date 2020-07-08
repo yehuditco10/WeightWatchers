@@ -45,6 +45,9 @@ namespace Tracking.Data.Migrations
                     b.Property<int>("Trand")
                         .HasColumnType("int");
 
+                    b.Property<float>("Weight")
+                        .HasColumnType("real");
+
                     b.HasKey("Id");
 
                     b.ToTable("Tracking");
