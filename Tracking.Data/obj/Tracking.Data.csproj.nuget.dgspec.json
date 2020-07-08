@@ -27,8 +27,13 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
                 "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj"
+=======
+              "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj"
+>>>>>>> 1fa03b43ec58c91dad543238f4e7f5247d3234d4
               }
             }
           }
@@ -77,6 +82,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -85,6 +91,16 @@
         "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\obj\\",
+=======
+    "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj",
+        "projectName": "Tracking.Services",
+        "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\obj\\",
+>>>>>>> 1fa03b43ec58c91dad543238f4e7f5247d3234d4
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

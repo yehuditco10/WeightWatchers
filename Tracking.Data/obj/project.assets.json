@@ -6301,8 +6301,13 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
               "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj"
+=======
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Tracking.Services\\Tracking.Services.csproj"
+>>>>>>> 1fa03b43ec58c91dad543238f4e7f5247d3234d4
             }
           }
         }
