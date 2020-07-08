@@ -17,3 +17,15 @@ C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Dat
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.dll
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Data.deps.json
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Data.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Data.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Services.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Services.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.csprojAssemblyReference.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.AssemblyInfoInputs.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.AssemblyInfo.cs
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.csproj.CoreCompileInputs.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.csproj.CopyComplete
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.pdb

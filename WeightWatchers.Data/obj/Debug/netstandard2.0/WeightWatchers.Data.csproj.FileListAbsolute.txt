@@ -32,3 +32,15 @@ C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\WeightWatche
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.dll
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.deps.json
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Services.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Services.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csprojAssemblyReference.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.AssemblyInfoInputs.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.AssemblyInfo.cs
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csproj.CoreCompileInputs.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csproj.CopyComplete
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.pdb

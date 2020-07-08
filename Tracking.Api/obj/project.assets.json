@@ -8242,19 +8242,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user1\\.nuget\\packages\\": {}
+    "C:\\Users\\bhartman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Api\\Tracking.Api.csproj",
+      "projectUniqueName": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Tracking.Api\\Tracking.Api.csproj",
       "projectName": "Tracking.Api",
-      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Api\\Tracking.Api.csproj",
-      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Api\\obj\\",
+      "projectPath": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Tracking.Api\\Tracking.Api.csproj",
+      "packagesPath": "C:\\Users\\bhartman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Tracking.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bhartman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8267,8 +8267,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Data\\Tracking.Data.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Tracking.Data\\Tracking.Data.csproj"
+            "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Tracking.Data\\Tracking.Data.csproj": {
+              "projectPath": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Tracking.Data\\Tracking.Data.csproj"
             }
           }
         }
@@ -8315,7 +8315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "umojTH942/20flA8BP3lXRmwXt49Ufjh7ENJ1EjGK+nMPQcSHgtb/nDWGPlWRwYFmBUBQEN5RB0zyfWsOGhAow==",
+  "dgSpecHash": "Ej8mmSTADRqYGvjpCeFpOdNNLbfniGWzbRJjnHn9aLG1Y8IMODJ4PPqN4Rk3UbhCM9YK589WTvkK+lx9wXTZpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhartman\\Documents\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj",
+  "projectFilePath": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhartman\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\bhartman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

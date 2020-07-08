@@ -22,3 +22,12 @@ C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Messages\obj
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.dll
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.csproj.CoreCompileInputs.cache
