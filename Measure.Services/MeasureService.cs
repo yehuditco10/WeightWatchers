@@ -13,7 +13,12 @@ namespace Measure.Services
     {
         private readonly IMeasureRepository _measureRepository;
        private readonly IEndpointInstance _endpointInstance;
-      
+
+        public MeasureService(IMeasureRepository measureRepository)
+        {
+            _measureRepository = measureRepository;
+
+        }
         public MeasureService(IMeasureRepository measureRepository
            , IEndpointInstance endPointInstance
             )
@@ -35,6 +40,7 @@ namespace Measure.Services
                     weight = measure.weight
 
                 };
+              
               await _endpointInstance.Send(updateCard);
                 return true;
             }

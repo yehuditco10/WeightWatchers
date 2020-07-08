@@ -38,41 +38,42 @@ namespace Measure.Api
 
             IMapper mapper = mappingConfig.CreateMapper();
             services.AddSingleton(mapper);
-            ///////////////////////////////////////////////////NSB//////////////////////////////
-            var endpointConfiguration = new EndpointConfiguration("Measure");
+            /////////////////////////////////////////////////////NSB//////////////////////////////
+            //var endpointConfiguration = new EndpointConfiguration("Measure");
 
-            //persistence
-            var connection = Configuration.GetConnectionString("WeightWatchersOutBox");
-            var persistence = endpointConfiguration.UsePersistence<SqlPersistence>();
-            var subscriptions = persistence.SubscriptionSettings();
-            subscriptions.CacheFor(TimeSpan.FromMinutes(1));
-            persistence.SqlDialect<SqlDialect.MsSqlServer>();
-            persistence.ConnectionBuilder(
-                connectionBuilder: () =>
-                {
-                    return new SqlConnection(connection);
-                });
-            var transport = endpointConfiguration.UseTransport<RabbitMQTransport>();
-            transport.UseConventionalRoutingTopology();
-            transport.ConnectionString("host= localhost:5672;username=guest;password=guest");
-            endpointConfiguration.EnableInstallers();
-            endpointConfiguration.EnableOutbox();
-            endpointConfiguration.AuditProcessedMessagesTo("audit");
-            var routing = transport.Routing();
-            //routing.RouteToEndpoint(
-            //assembly: typeof(UpdateCard).Assembly,
-            //destination: "WeightWatchers.Services");//?
-            routing.RouteToEndpoint(typeof(UpdateCard), "WeightWatchers.Services");
-            var endpointInstance = await Endpoint.Start(endpointConfiguration)
-             .ConfigureAwait(false);
-            var conventions = endpointConfiguration.Conventions();
-            conventions.DefiningCommandsAs(type => type.Namespace == "Messages.Commands");
-            conventions.DefiningEventsAs(type => type.Namespace == "Messages.Events");
-            services.AddScoped(typeof(IEndpointInstance), x => endpointInstance);
-            //await endpointInstance.Stop()
-            //    .ConfigureAwait(false);
-            services.AddScoped(typeof(IMeasureRepository), typeof(MeasureRepository));
+            ////persistence
+            //var connection = Configuration.GetConnectionString("WeightWatchersOutBox");
+            //var persistence = endpointConfiguration.UsePersistence<SqlPersistence>();
+            //var subscriptions = persistence.SubscriptionSettings();
+            //subscriptions.CacheFor(TimeSpan.FromMinutes(1));
+            //persistence.SqlDialect<SqlDialect.MsSqlServer>();
+            //persistence.ConnectionBuilder(
+            //    connectionBuilder: () =>
+            //    {
+            //        return new SqlConnection(connection);
+            //    });
+            //var transport = endpointConfiguration.UseTransport<RabbitMQTransport>();
+            //transport.UseConventionalRoutingTopology();
+            //transport.ConnectionString("host= localhost:5672;username=guest;password=guest");
+            //endpointConfiguration.EnableInstallers();
+            //endpointConfiguration.EnableOutbox();
+            //endpointConfiguration.AuditProcessedMessagesTo("audit");
+            //var routing = transport.Routing();
+            ////routing.RouteToEndpoint(
+            ////assembly: typeof(UpdateCard).Assembly,
+            ////destination: "WeightWatchers.Services");//?
+            //routing.RouteToEndpoint(typeof(UpdateCard), "WeightWatchers.Services");
+            //var endpointInstance = await Endpoint.Start(endpointConfiguration)
+            // .ConfigureAwait(false);
+            //var conventions = endpointConfiguration.Conventions();
+            //conventions.DefiningCommandsAs(type => type.Namespace == "Messages.Commands");
+            //conventions.DefiningEventsAs(type => type.Namespace == "Messages.Events");
+            //services.AddScoped(typeof(IEndpointInstance), x => endpointInstance);
+            ////await endpointInstance.Stop()
+            ////    .ConfigureAwait(false); 
             services.AddScoped(typeof(IMeasureService), typeof(MeasureService));
+            services.AddScoped(typeof(IMeasureRepository), typeof(MeasureRepository));
+           
         }
 
 

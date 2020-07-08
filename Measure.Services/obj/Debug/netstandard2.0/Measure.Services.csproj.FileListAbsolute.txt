@@ -44,3 +44,14 @@ C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Measure.Services\obj\Debu
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.AssemblyInfo.cs
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.csproj.CoreCompileInputs.cache
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.csproj.CopyComplete
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\bin\Debug\netstandard2.0\Measure.Services.deps.json
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\bin\Debug\netstandard2.0\Measure.Services.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\bin\Debug\netstandard2.0\Measure.Services.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.csproj.CopyComplete
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Services\obj\Debug\netstandard2.0\Measure.Services.pdb
