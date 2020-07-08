@@ -8992,11 +8992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Api\\Measure.Api.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Api\\Measure.Api.csproj",
       "projectName": "Measure.Api",
-      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Api\\Measure.Api.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Api\\Measure.Api.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Api\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9012,11 +9012,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Data\\Measure.Data.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Data\\Measure.Data.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Data\\Measure.Data.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Data\\Measure.Data.csproj"
             },
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Services\\Measure.Services.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Measure.Services\\Measure.Services.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Services\\Measure.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Measure.Services\\Measure.Services.csproj"
             }
           }
         }

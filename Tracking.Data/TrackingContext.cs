@@ -36,6 +36,8 @@ namespace Tracking.Data
             modelBuilder.Entity<Entities.Tracking>()
                 .Property(u => u.Trand);
             modelBuilder.Entity<Entities.Tracking>()
+               .Property(u => u.Weight);
+            modelBuilder.Entity<Entities.Tracking>()
                 .Property(u => u.BMI)
                  .HasDefaultValue(0);
             modelBuilder.Entity<Entities.Tracking>()

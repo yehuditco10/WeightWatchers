@@ -26,42 +26,42 @@ namespace WeightWatchers.Data
         public WeightWatchersContext()
         {   }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Card>().ToTable("Card");
-            modelBuilder.Entity<Subscriber>().ToTable("Subscriber");
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Card>().ToTable("Card");
+        //    modelBuilder.Entity<Subscriber>().ToTable("Subscribers");
 
-            modelBuilder.Entity<Card>()
-                               .Property(Subscriber => Subscriber.openDate)
-                                   .HasDefaultValueSql("getdate()");
-            modelBuilder.Entity<Card>()
-                              .Property(Subscriber => Subscriber.updateDate)
-                                  .HasDefaultValueSql("getdate()");
-            modelBuilder.Entity<Card>()
-                .Property(u => u.weight)
-                .HasDefaultValue(0);
-            modelBuilder.Entity<Card>()
-               .Property(u => u.BMI)
-               .HasDefaultValue(0);
-            modelBuilder.Entity<Card>()
-                .Property(u => u.id);
-            //  .HasDefaultValueSql("NEWID()");
-            modelBuilder.Entity<SubscriberModel>()
-                .Property(u => u.id);
-            //   .HasDefaultValueSql("NEWID()");
-            modelBuilder.Entity<SubscriberModel>()
+        //    modelBuilder.Entity<Card>()
+        //                       .Property(Subscriber => Subscriber.openDate)
+        //                           .HasDefaultValueSql("getdate()");
+        //    modelBuilder.Entity<Card>()
+        //                      .Property(Subscriber => Subscriber.updateDate)
+        //                          .HasDefaultValueSql("getdate()");
+        //    modelBuilder.Entity<Card>()
+        //        .Property(u => u.weight)
+        //        .HasDefaultValue(0);
+        //    modelBuilder.Entity<Card>()
+        //       .Property(u => u.BMI)
+        //       .HasDefaultValue(0);
+        //    modelBuilder.Entity<Card>()
+        //        .Property(u => u.id);
+        //      .HasDefaultValueSql("NEWID()");
+        //    modelBuilder.Entity<Subscriber>()
+        //        .Property(u => u.id);
+        //       .HasDefaultValueSql("NEWID()");
+        //    modelBuilder.Entity<Subscriber>()
 
-                  .HasIndex(u => u.email)
-                  .IsUnique();
+        //          .HasIndex(u => u.email)
+        //          .IsUnique();
 
 
-            modelBuilder.Entity<Subscriber>()
-           .Property(u => u.firstName)
-           .IsRequired();
+        //    modelBuilder.Entity<Subscriber>()
+        //   .Property(u => u.firstName)
+        //   .IsRequired();
 
-            modelBuilder.Entity<Subscriber>()
-           .Property(u => u.password)
-           .IsRequired();
-        }
+        //    modelBuilder.Entity<Subscriber>()
+        //   .Property(u => u.password)
+        //   .IsRequired();
+        //}
     }
 }

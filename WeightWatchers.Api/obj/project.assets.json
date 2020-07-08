@@ -8878,11 +8878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Api\\WeightWatchers.Api.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Api\\WeightWatchers.Api.csproj",
       "projectName": "WeightWatchers.Api",
-      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Api\\WeightWatchers.Api.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Api\\WeightWatchers.Api.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Api\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8898,14 +8898,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\Messages\\Messages.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Messages\\Messages.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\Messages\\Messages.csproj"
             },
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Data\\WeightWatchers.Data.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Data\\WeightWatchers.Data.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Data\\WeightWatchers.Data.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Data\\WeightWatchers.Data.csproj"
             },
-            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\proj\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\Brix\\WeightWatchers\\WeightWatchers\\WeightWatchers.Services\\WeightWatchers.Services.csproj"
             }
           }
         }

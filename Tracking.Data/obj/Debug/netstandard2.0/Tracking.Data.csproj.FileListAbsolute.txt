@@ -6,3 +6,6 @@ C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Trackin
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Data.pdb
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.dll
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Services.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\bin\Debug\netstandard2.0\Tracking.Services.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Data\obj\Debug\netstandard2.0\Tracking.Data.csproj.CopyComplete

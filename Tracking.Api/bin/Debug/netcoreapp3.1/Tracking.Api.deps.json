@@ -2120,13 +2120,22 @@
       "Tracking.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.5",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Tracking.Services": "1.0.0"
         },
         "runtime": {
           "Tracking.Data.dll": {}
         },
         "compile": {
           "Tracking.Data.dll": {}
+        }
+      },
+      "Tracking.Services/1.0.0": {
+        "runtime": {
+          "Tracking.Services.dll": {}
+        },
+        "compile": {
+          "Tracking.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4816,6 +4825,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Tracking.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tracking.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
