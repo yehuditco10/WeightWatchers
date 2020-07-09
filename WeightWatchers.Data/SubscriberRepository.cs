@@ -73,7 +73,9 @@ namespace WeightWatchers.Data
 
         public async Task<CardModel> isCardExists(int cardId)
         {
+           
             var card = await _context.Cards.FirstOrDefaultAsync(c => c.id == cardId);
+            Console.WriteLine("bbbb");
             return _mapper.Map<CardModel>(card);
 
         }
@@ -106,7 +108,11 @@ namespace WeightWatchers.Data
         public async Task<int> UpdateCard(CardModel cardUpdated)
         {
             Card card = _mapper.Map<Entities.Card>(cardUpdated);
-            _context.Cards.Update(card);
+            Card cartToUpdate = await _context.Cards.FirstOrDefaultAsync(c => c.id == cardUpdated.id);
+            cartToUpdate.weight = cardUpdated.weight;
+            cartToUpdate.BMI = cardUpdated.BMI;
+            cartToUpdate.updateDate = cardUpdated.updateDate;
+            //_context.Cards.Update(card);
             return await _context.SaveChangesAsync();
         }
 

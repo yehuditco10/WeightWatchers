@@ -28,7 +28,7 @@ namespace WeightWatchers.Data
 
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{
-        //    modelBuilder.Entity<Card>().ToTable("Card");
+        //    modelBuilder.Entity<Card>().ToTable("Cards");
         //    modelBuilder.Entity<Subscriber>().ToTable("Subscribers");
 
         //    modelBuilder.Entity<Card>()
@@ -45,10 +45,10 @@ namespace WeightWatchers.Data
         //       .HasDefaultValue(0);
         //    modelBuilder.Entity<Card>()
         //        .Property(u => u.id);
-        //      .HasDefaultValueSql("NEWID()");
+        //     // .HasDefaultValueSql("NEWID()");
         //    modelBuilder.Entity<Subscriber>()
         //        .Property(u => u.id);
-        //       .HasDefaultValueSql("NEWID()");
+        //     //  .HasDefaultValueSql("NEWID()");
         //    modelBuilder.Entity<Subscriber>()
 
         //          .HasIndex(u => u.email)

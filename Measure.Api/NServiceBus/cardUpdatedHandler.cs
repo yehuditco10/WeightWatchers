@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace Measure.Api.NServiceBus
 {
-    public class cardUpdatedHandler : IHandleMessages<cardUpdated>
+    public class cardUpdatedHandler 
+        //: IHandleMessages<cardUpdated>
     {
-        public Task Handle(cardUpdated message, IMessageHandlerContext context)
-        {
-            throw new NotImplementedException();
-        }
+        //public Task Handle(cardUpdated message, IMessageHandlerContext context)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

@@ -43,14 +43,14 @@ namespace Measure.Api
                 recoverability.Delayed(
                     customizations: delayed =>
                     {
-                        delayed.NumberOfRetries(2);
+                        delayed.NumberOfRetries(1);
                         delayed.TimeIncrease(TimeSpan.FromMinutes(4));
                     });
 
                 recoverability.Immediate(
                     customizations: immediate =>
                     {
-                        immediate.NumberOfRetries(3);
+                        immediate.NumberOfRetries(2);
 
                     });
 

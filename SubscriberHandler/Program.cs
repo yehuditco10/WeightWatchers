@@ -57,7 +57,7 @@ namespace SubscriberHandler
             //                configuration.GetConnectionString("weightWatchersConnection")));
             containerSettings.ServiceCollection.AddDbContext<WeightWatchersContext>(options =>
                         options.UseSqlServer(
-                          connection));
+                          "Data Source = DESKTOP-1HT6NS2; Initial Catalog = WeightWatchers; Integrated Security = True"));
 
             var mappingConfig = new MapperConfiguration(mc =>
             {
