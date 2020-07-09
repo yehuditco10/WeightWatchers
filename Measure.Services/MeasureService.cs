@@ -14,7 +14,6 @@ namespace Measure.Services
         private readonly IMeasureRepository _measureRepository;
         private readonly IMessageSession _messageSession;
 
-      
         public MeasureService(IMeasureRepository measureRepository
            , IMessageSession messageSession
             )
@@ -27,7 +26,7 @@ namespace Measure.Services
             measure.date = DateTime.Now;
             measure.status = eStatus.inProsses;
             var addedId= await _measureRepository.CreateAsync(measure);
-            if(addedId != 0)
+            if(addedId > 0)
             {
                 UpdateCard updateCard = new UpdateCard()
                 {

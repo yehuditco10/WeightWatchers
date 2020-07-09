@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5SYS8ZdVa73jtwoEUpRXURf1WIDH+1zB1lqiZHFGYxocn4I4kLnKxbFnwk0p/XyQtwbQNeI1zWFW164kQNdGiw==",
+  "dgSpecHash": "2IuJo++Q852Lsf3rUUmNIv6WoU4AmkIx47AXmydxmOGUl01xhWpG7YzMavhylE0K1LGLbp6sCQEO36loU9A0fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhartman\\Documents\\tryWatchers\\WeightWatchers\\Messages\\Messages.csproj",
+  "projectFilePath": "C:\\Users\\bhartman\\Documents\\WeightWatchers\\Messages\\Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhartman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bhartman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

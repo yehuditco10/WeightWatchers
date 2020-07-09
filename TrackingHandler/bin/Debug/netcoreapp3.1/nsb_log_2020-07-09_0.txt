@@ -1,0 +1,5 @@
+﻿2020-07-09 14:22:03.556 INFO  Logging to 'C:\Users\bhartman\Documents\WeightWatchers\TrackingHandler\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 14:22:03.713 INFO  Auditing processed messages to 'audit'
+2020-07-09 14:22:03.807 INFO  Selected active license from C:\Users\bhartman\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 14:22:04.201 INFO  Executing 'C:\Users\bhartman\Documents\WeightWatchers\TrackingHandler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'

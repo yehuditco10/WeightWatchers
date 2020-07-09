@@ -30,6 +30,7 @@ namespace Measure.Api
             services.AddDbContext<MeasureContext>(options =>
                options.UseSqlServer(
                    Configuration.GetConnectionString("MeasureDBConnection")));
+                  
 
             var mappingConfig = new MapperConfiguration(mc =>
             {

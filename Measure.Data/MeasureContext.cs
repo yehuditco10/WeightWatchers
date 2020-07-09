@@ -6,14 +6,7 @@ namespace Measure.Data
     public class MeasureContext : DbContext
     {
         public DbSet<Entities.Measure> Measures { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Data Source =DESKTOP-1HT6NS2; Initial Catalog = MeasureDB; Integrated Security = True");
-                base.OnConfiguring(optionsBuilder);
-            }
-        }
+      
         public MeasureContext(DbContextOptions<MeasureContext> options)
        : base(options)
         { }

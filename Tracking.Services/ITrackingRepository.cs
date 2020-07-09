@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Tracking.Services
 {
-   public interface ITrackingRepository
+    public interface ITrackingRepository
     {
+        void AddTracking(Models.Tracking message);
     }
 }

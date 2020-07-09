@@ -30,7 +30,6 @@ namespace Measure.Data
              await _measureContext.SaveChangesAsync();
             return e.Entity.id;
         }
-
         public async Task<int> UpdateStatus(int measureId, eStatus status)
         {
             Entities.Measure measure = new Entities.Measure()

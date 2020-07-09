@@ -8,14 +8,7 @@ namespace Tracking.Data
     public class TrackingContext : DbContext
     {
         public DbSet<Entities.Tracking> Trackings { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Data Source =DESKTOP-1HT6NS2; Initial Catalog = TrackingDB; Integrated Security = True");
-                base.OnConfiguring(optionsBuilder);
-            }
-        }
+       
         public TrackingContext(DbContextOptions<TrackingContext> options)
        : base(options)
         { }

@@ -1,13 +1,9 @@
 using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using NServiceBus;
 
 namespace Measure.Api
@@ -60,8 +56,8 @@ namespace Measure.Api
 
 
                 var persistence = endpointConfiguration.UsePersistence<SqlPersistence>();
-                var connection =  "Data Source = DESKTOP-1HT6NS2; Initial Catalog = MeasureDB; Integrated Security = True";
-
+               // var connection  =  "Data Source = DESKTOP-1HT6NS2; Initial Catalog = MeasureDB; Integrated Security = True";
+                var connection = Configuration.GetConnectionString("MeasureDBConnection");
                 persistence.SqlDialect<SqlDialect.MsSqlServer>();
 
                 persistence.ConnectionBuilder(
