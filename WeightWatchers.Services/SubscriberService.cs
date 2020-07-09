@@ -42,7 +42,7 @@ namespace WeightWatchers.Services
         }
 
 
-        public async Task UpdateCard(int cardId, float weight)
+        public async Task<int> UpdateCard(int cardId, float weight)
         {
             CardModel card = await IsCardExists(cardId);
             if (card != null)
@@ -54,8 +54,9 @@ namespace WeightWatchers.Services
                     weight = weight,
                     updateDate = DateTime.Today
                 };
-                var successed = await _subscriberRepository.UpdateCard(cardUpdated);
+               return  await _subscriberRepository.UpdateCard(cardUpdated);
             }
+            return -1;
         }
         public async Task<CardModel> IsCardExists(int cardId)
         {

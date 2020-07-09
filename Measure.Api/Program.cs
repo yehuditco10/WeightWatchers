@@ -77,7 +77,11 @@ namespace Measure.Api
                 //endpointConfiguration.AuditSagaStateChanges(
                 //        serviceControlQueue: "Particular.weightwatchers");
                 var routing = transport.Routing();
-                routing.RouteToEndpoint(assembly: typeof(Messages.UpdateCard).Assembly, destination: "WeightWatchers.Api");
+                routing.RouteToEndpoint(
+                    messageType: typeof(Messages.UpdateCard),
+                    destination: "Subscriber");
+
+                //routing.RouteToEndpoint(assembly: typeof(Messages.UpdateCard).Assembly, destination: "WeightWatchers.Api");
                 var conventions = endpointConfiguration.Conventions();
                 conventions.DefiningCommandsAs(type => type.Namespace == "Messages.Commands");
                 conventions.DefiningEventsAs(type => type.Namespace == "Messages.Events");

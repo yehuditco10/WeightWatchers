@@ -12,6 +12,6 @@ namespace WeightWatchers.Services
         Task<int> LoginAsync(string email, string password);
         Task<bool> AddAsync(SubscriberModel subsciber, float height);
         Task<bool> IsEmailExistsAsync(string email);
-        Task UpdateCard(int cardId, float weight);
+        Task<int> UpdateCard(int cardId, float weight);
     }
 }

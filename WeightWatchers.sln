@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking.Data", "Tracking.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking.Services", "Tracking.Services\Tracking.Services.csproj", "{339C11B6-ED71-4C23-8DF8-9536D73F4533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriberHandler", "SubscriberHandler\SubscriberHandler.csproj", "{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{339C11B6-ED71-4C23-8DF8-9536D73F4533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{339C11B6-ED71-4C23-8DF8-9536D73F4533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{339C11B6-ED71-4C23-8DF8-9536D73F4533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,6 +95,7 @@ Global
 		{DA80994D-8C16-4D8F-831E-B5D2F3921702} = {8E6E8F63-B433-4B9B-AE35-74877709A0BA}
 		{4776B008-8F5B-4B4E-B721-101532F98A1F} = {8E6E8F63-B433-4B9B-AE35-74877709A0BA}
 		{339C11B6-ED71-4C23-8DF8-9536D73F4533} = {8E6E8F63-B433-4B9B-AE35-74877709A0BA}
+		{6F3536C2-E28A-4234-BDB5-6C7DE9CEA6FE} = {B94BE88F-9334-49F4-B496-0A0348F35BC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B02C45A0-1FE3-43EF-B135-E646262E2075}

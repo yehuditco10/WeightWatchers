@@ -12,19 +12,15 @@ namespace Measure.Services
     public class MeasureService : IMeasureService
     {
         private readonly IMeasureRepository _measureRepository;
-       private readonly IEndpointInstance _endpointInstance;
+        private readonly IMessageSession _messageSession;
 
-        public MeasureService(IMeasureRepository measureRepository)
-        {
-            _measureRepository = measureRepository;
-
-        }
+      
         public MeasureService(IMeasureRepository measureRepository
-           , IEndpointInstance endPointInstance
+           , IMessageSession messageSession
             )
         {
             _measureRepository = measureRepository;
-          _endpointInstance = endPointInstance;
+           _messageSession = messageSession;
         }
         public async Task<bool> CreateAsync(MeasureModel measure)
         {
@@ -41,7 +37,7 @@ namespace Measure.Services
 
                 };
               
-              await _endpointInstance.Send(updateCard);
+              await _messageSession.Send(updateCard);
                 return true;
             }
             return false;
