@@ -44,3 +44,14 @@ C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\D
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csproj.CopyComplete
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.dll
 C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.deps.json
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Data.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Services.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\bin\Debug\netstandard2.0\WeightWatchers.Services.pdb
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.csproj.CopyComplete
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.dll
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Data\obj\Debug\netstandard2.0\WeightWatchers.Data.pdb

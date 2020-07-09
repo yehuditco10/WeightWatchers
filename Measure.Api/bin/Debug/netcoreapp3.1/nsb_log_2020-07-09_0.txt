@@ -130,3 +130,65 @@ License Expiration: 2020-10-05
 2020-07-09 12:07:36.883 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
 2020-07-09 12:07:37.263 INFO  Executing saga creation scripts:
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 13:18:48.651 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 13:18:49.221 INFO  Auditing processed messages to 'audit'
+2020-07-09 13:18:49.409 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 13:18:52.391 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 13:18:52.584 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 13:27:39.681 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 13:27:39.912 INFO  Auditing processed messages to 'audit'
+2020-07-09 13:27:39.993 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 13:27:42.120 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 13:27:42.252 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 13:50:55.242 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 13:50:55.574 INFO  Auditing processed messages to 'audit'
+2020-07-09 13:50:55.697 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 13:50:58.120 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 13:50:58.240 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 13:51:25.327 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 13:51:25.811 INFO  Auditing processed messages to 'audit'
+2020-07-09 13:51:25.949 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 13:51:28.058 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 13:51:28.230 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 13:54:42.894 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 13:54:43.190 INFO  Auditing processed messages to 'audit'
+2020-07-09 13:54:43.374 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 13:54:45.616 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 13:54:45.775 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 14:02:51.696 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\' with level Info
+2020-07-09 14:02:52.291 INFO  Auditing processed messages to 'audit'
+2020-07-09 14:02:52.480 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-07-09 14:02:55.639 INFO  Executing 'C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-07-09 14:02:55.843 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Measure.Api\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\MeasurePolicy_Create.sql
+2020-07-09 14:07:02.881 WARN  'Measure Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(NetworkBinaryReader reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-07-09 14:07:02.881 WARN  'Measure MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(NetworkBinaryReader reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-07-09 14:07:02.903 INFO  Attempting to reconnect in 10 seconds.
+2020-07-09 14:07:02.904 WARN  The circuit breaker for 'Measure MessagePump' is now in the armed state
+2020-07-09 14:07:13.273 INFO  Connection to the broker reestablished successfully.
+2020-07-09 14:07:13.323 INFO  The circuit breaker for 'Measure MessagePump' is now disarmed

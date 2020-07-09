@@ -35,7 +35,7 @@ namespace WeightWatchers.Api.NServiceBus
                     NewWeight = message.weight,
                 };
                 //await _endpointInstance.Send(addTrack);
-                await context.Send(addTrack);
+              //  await context.Send(addTrack);
             }
             cardUpdated cardUpdated = new cardUpdated()
             {
