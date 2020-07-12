@@ -1,28 +1,3 @@
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.deps.json
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.csprojAssemblyReference.cache
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfoInputs.cache
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfo.cs
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.deps.json
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfoInputs.cache
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfo.cs
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.deps.json
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.csprojAssemblyReference.cache
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfoInputs.cache
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfo.cs
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.csproj.CoreCompileInputs.cache
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\bhartman\Documents\tryWatchers\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.pdb
-<<<<<<< HEAD
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.deps.json
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.dll
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.pdb
@@ -35,12 +10,3 @@ C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\obj\Debug\netstanda
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.csproj.CopyComplete
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.dll
 C:\Users\bhartman\Documents\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.pdb
-=======
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.deps.json
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\bin\Debug\netstandard2.0\Tracking.Services.pdb
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfoInputs.cache
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.AssemblyInfo.cs
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.dll
-C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\Tracking.Services\obj\Debug\netstandard2.0\Tracking.Services.pdb
->>>>>>> 500931cddd761ab82e2ba4491f9c8aa4a0d3e7b3
