@@ -10,7 +10,7 @@ using WeightWatchers.Services.Models;
 
 namespace WeightWatchers.Api
 {
-    class MappingProfile: Profile
+   public class MappingProfile: Profile
     {
         public MappingProfile()
         {

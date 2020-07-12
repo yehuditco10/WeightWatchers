@@ -47,14 +47,14 @@ namespace WeightWatchers.Services
             CardModel card = await IsCardExists(cardId);
             if (card != null)
             {
-                CardModel cardUpdated = new CardModel()
+                CardModel cardUpdate = new CardModel()
                 {
                     id = cardId,
                     BMI = weight / (card.height * card.height),
                     weight = weight,
                     updateDate = DateTime.Today
                 };
-               return  await _subscriberRepository.UpdateCard(cardUpdated);
+               return  await _subscriberRepository.UpdateCard(cardUpdate);
             }
             return -1;
         }

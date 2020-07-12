@@ -1,4 +1,3 @@
-C:\Users\bhartman\Documents\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.csprojAssemblyReference.cache
 C:\Users\bhartman\Documents\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.csproj.CoreCompileInputs.cache
 C:\Users\bhartman\Documents\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.AssemblyInfoInputs.cache
 C:\Users\bhartman\Documents\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.AssemblyInfo.cs
@@ -40,3 +39,4 @@ C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.AssemblyInfo.cs
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.dll
 C:\Users\user1\Documents\Yehudit\Brix\WeightWatchers\proj\project\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.pdb
+C:\Users\bhartman\Documents\WeightWatchers\WeightWatchers.Services\obj\Debug\netstandard2.0\WeightWatchers.Services.csprojAssemblyReference.cache

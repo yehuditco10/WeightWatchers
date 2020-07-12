@@ -14,7 +14,14 @@ namespace Tracking.Data
         { }
         public TrackingContext()
         { }
-
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Data Source = ILBHARTMANLT; Initial Catalog = TrackingDB; Integrated Security = True");
+                base.OnConfiguring(optionsBuilder);
+            }
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
 

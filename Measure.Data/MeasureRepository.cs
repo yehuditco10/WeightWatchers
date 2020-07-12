@@ -28,6 +28,7 @@ namespace Measure.Data
             var e = await _measureContext.Measures.AddAsync(measure);
 
              await _measureContext.SaveChangesAsync();
+            
             return e.Entity.id;
         }
         public async Task<int> UpdateStatus(int measureId, eStatus status)

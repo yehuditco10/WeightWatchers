@@ -12,10 +12,14 @@ namespace WeightWatchers.Api.NServiceBus
 {
     public class UpdateCardHandler : IHandleMessages<UpdateCard>
     {
+        private readonly IMessageSession _messageSession;
         private readonly ISubscriberService _subscriberService;
         static ILog log = LogManager.GetLogger<UpdateCardHandler>();
-        public UpdateCardHandler(ISubscriberService subscriberService)
+        public UpdateCardHandler(ISubscriberService subscriberService
+          // , IMessageSession messageSession
+          )
         {
+           // _messageSession = messageSession;
             _subscriberService = subscriberService;
         }
         
@@ -34,8 +38,7 @@ namespace WeightWatchers.Api.NServiceBus
                     CardId = message.cardId,
                     NewWeight = message.weight,
                 };
-                //await _endpointInstance.Send(addTrack);
-                await context.Send(addTrack);
+               await context.Send(addTrack);
             }
             cardUpdated cardUpdated = new cardUpdated()
             {

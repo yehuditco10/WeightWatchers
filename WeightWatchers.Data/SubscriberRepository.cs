@@ -38,7 +38,6 @@ namespace WeightWatchers.Data
                     subscriberId = subsciberModel.id,
                     height = height,
                     openDate = DateTime.Today
-
                 });
                 return await _context.SaveChangesAsync();
             }

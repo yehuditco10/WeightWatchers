@@ -36,6 +36,20 @@ namespace TrackingHandler
             endpointConfiguration.EnableInstallers();
             endpointConfiguration.AuditProcessedMessagesTo("audit");
 
+            var recoverability = endpointConfiguration.Recoverability();
+            recoverability.Delayed(
+                customizations: delayed =>
+                {
+                    delayed.NumberOfRetries(2);
+                    delayed.TimeIncrease(TimeSpan.FromMinutes(4));
+                });
+
+            recoverability.Immediate(
+                customizations: immediate =>
+                {
+                    immediate.NumberOfRetries(1);
+
+                });
 
             var endpointInstance = await Endpoint.Start(endpointConfiguration)
                 .ConfigureAwait(false);

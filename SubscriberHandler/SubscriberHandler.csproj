@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.5" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.5" />
     <PackageReference Include="NServiceBus" Version="7.3.0" />
@@ -17,6 +19,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Messages\Messages.csproj" />
+    <ProjectReference Include="..\WeightWatchers.Api\WeightWatchers.Api.csproj" />
+    <ProjectReference Include="..\WeightWatchers.Data\WeightWatchers.Data.csproj" />
     <ProjectReference Include="..\WeightWatchers.Services\WeightWatchers.Services.csproj" />
   </ItemGroup>
 
