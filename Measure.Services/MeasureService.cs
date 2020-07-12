@@ -26,7 +26,7 @@ namespace Measure.Services
             measure.date = DateTime.Now;
             measure.status = eStatus.inProsses;
             var addedId= await _measureRepository.CreateAsync(measure);
-            if(addedId > 0)
+            if(addedId!=null && addedId >0)
             {
                 UpdateCard updateCard = new UpdateCard()
                 {

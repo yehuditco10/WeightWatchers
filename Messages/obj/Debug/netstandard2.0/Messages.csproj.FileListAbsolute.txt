@@ -6,3 +6,4 @@ C:\Users\bhartman\Documents\WeightWatchers\Messages\obj\Debug\netstandard2.0\Mes
 C:\Users\bhartman\Documents\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.csproj.CoreCompileInputs.cache
 C:\Users\bhartman\Documents\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.dll
 C:\Users\bhartman\Documents\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.pdb
+C:\Users\bhartman\Documents\WeightWatchers\Messages\obj\Debug\netstandard2.0\Messages.csprojAssemblyReference.cache

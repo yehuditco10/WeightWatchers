@@ -46,7 +46,7 @@ namespace WeightWatchers.Api.NServiceBus
                 measureId = message.measureId
             };
             //await _endpointInstance.Send(cardUpdated)
-            await context.Send(cardUpdated)
+            await context.Publish(cardUpdated)
                        .ConfigureAwait(false);
 
 

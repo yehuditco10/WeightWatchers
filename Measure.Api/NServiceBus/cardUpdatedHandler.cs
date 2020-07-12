@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Measure.Api.NServiceBus
 {
-    public class cardUpdatedHandler : IHandleMessages<cardUpdated>
+    public class cardUpdatedHandler 
+        //: IHandleMessages<cardUpdated>
     {
         public cardUpdatedHandler()
         {
